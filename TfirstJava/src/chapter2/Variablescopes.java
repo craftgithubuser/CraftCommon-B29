@@ -4,6 +4,8 @@ public class Variablescopes {
 	
 	int y = 20; 
 	static int z = 30;
+	
+	double S = 20876.99;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,7 +14,7 @@ public class Variablescopes {
 		
 		
 			
-			int x = 10;
+			int x = 2025;
 			 
 			System.out.println(x);
 			
@@ -20,7 +22,8 @@ public class Variablescopes {
 			Variablescopes mysub = new Variablescopes();
 			System.out.println(mysub.y);
 			
-			System.out.print(mysub.z);
+			System.out.println(mysub.z);
+			System.out.println(mysub.S);
 			
 		
 			
