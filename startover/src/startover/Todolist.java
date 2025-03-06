@@ -6,11 +6,6 @@ public class Todolist {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
-
-		public class TodoListApp {
-
-		    public static void main(String[] args) {
 		        ArrayList<String> tasks = new ArrayList<>();
 		        ArrayList<Boolean> completed = new ArrayList<>();
 		        Scanner scanner = new Scanner(System.in);
@@ -88,7 +83,7 @@ public class Todolist {
 		            }
 		        }
 		    }
-		}
+		
 	}
 
-}
+
