@@ -1,0 +1,8 @@
+String Name = Selam
+int Age = 22
+double Salary = 9897.80
+
+System.out.println("person name is: +Name);
+System.out.println("person age is: +Age);
+System.out.println("person Salary is: +Salary);
+
